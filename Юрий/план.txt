@@ -61,8 +61,8 @@
 - работа со строками
 - обработка ошибок
 	+ try catch
-	- throws
-	- генерация исключений в ручную
+	+ throws
+	+ генерация исключений в ручную
 	- генерация собственных исключений
 - наследование
 	+ переопределение методов
@@ -107,7 +107,7 @@
 		- BufferedReader
 		- InputStreamReader
 	- класс_writer
-		- PrintWriter
+		+ PrintWriter
 		- FileWriter
 		- BufferedWriter
 		- OutputStreamWriter
