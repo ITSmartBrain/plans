@@ -91,6 +91,8 @@
 	+ HashSet
 	+ TreeSet
 	+ LinkedHashSet
++ Итератор
+	+ реализация своего итератора (интерфейсы Iterable, Iterator )	
 + Интерфейс Map
 	+ HashMap
 	+ TreeMap
