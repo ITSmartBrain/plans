@@ -40,13 +40,12 @@
 	- Comparator
 + ссылочные_типы_данных
 + класс Arrays
-- модификатор final
++ модификатор final
 + модификатор static
-- вложенные классы
++ вложенные классы
 	+ вложенные в классы
 	+ вложенные в методы
 + анонимные классы
-
 + Generics	
 + структуры данных
 	+ список на базе массива
@@ -72,13 +71,13 @@
 	+ equals
 	+ hashCode
 + абстрактные классы
-- интерфейсы
++ интерфейсы
 	+ реализация интерфейсов
-	- наследование интерфейсов
+	+ наследование интерфейсов
 - полиморфизм
 	+ полиморфизм классов
-	- полиморфизм интерфейсов
-	- переключение между интерфейсами и суперклассами
+	+ полиморфизм интерфейсов
+	+ переключение между интерфейсами и суперклассами
 + интерфейс List
 	+ ArrayList
 	+ LinkedList
@@ -99,29 +98,29 @@
 	+ LinkedHashMap
 + рекурсия
 - класс_Collections
-- файлы
++ файлы
 	+ Чтение
 	+ Запись
-	- Парсинг текста
+	+ Парсинг текста
 - регулярные выражения	
-- Потоки ввода-вывода
-	- класс_reader
++ Потоки ввода-вывода
+	+ класс_reader
 		+ FileReader
 		+ BufferedReader
-		- InputStreamReader
-	- класс_writer
+		+ InputStreamReader
+	+ класс_writer
 		+ PrintWriter
-		- FileWriter
-		- BufferedWriter
-		- OutputStreamWriter
-	- класс_inputStream
-		- System.in
-		- FileInputStream
-	- класс_outputStream
-		- System.out
-		- System.err
-		- FileOutputStream
-- сериализация
+		+ FileWriter
+		+ BufferedWriter
+		+ OutputStreamWriter
+	+ класс_inputStream
+		+ System.in
+		+ FileInputStream
+	+ класс_outputStream
+		+ System.out
+		+ System.err
+		+ FileOutputStream
++ сериализация
 - git
 	- создание локального репозитория
 	- добавление удаленного репозитория
