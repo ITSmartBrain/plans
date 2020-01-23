@@ -33,11 +33,11 @@
 	+ protected_поля 
 	+ default_поля 
 	+ геттеры_и_сеттеры
-- сортировка
++ сортировка
 	+ сортировка методом выбора
 	+ сортировка пузырьком
 	+ Comparable
-	- Comparator
+	+ Comparator
 + ссылочные_типы_данных
 + класс Arrays
 + модификатор final
@@ -97,7 +97,7 @@
 	+ TreeMap
 	+ LinkedHashMap
 + рекурсия
-- класс_Collections
++ класс_Collections
 + файлы
 	+ Чтение
 	+ Запись
