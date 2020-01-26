@@ -80,7 +80,7 @@
 	+ полиморфизм интерфейсов
 - интерфейс List
 	+ ArrayList
-	- LinkedList
+	+ LinkedList
 	- Stack
 	- Vector	
 - Интерфейс Queue
