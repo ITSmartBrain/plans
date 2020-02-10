@@ -20,7 +20,7 @@
 + массивы
 	+ одномерные
 	+ двумерные
-- классы введение
++ классы введение
 	+ методы
 	+ методы_с_параметрами
 	+ return 
@@ -104,8 +104,8 @@
 	+ Чтение
 	+ Запись
 	+ Парсинг текста
-- регулярные выражения	
-- Потоки ввода-вывода
++ регулярные выражения	
++ Потоки ввода-вывода
 	+ класс_reader
 		+ FileReader
 		+ BufferedReader
@@ -114,19 +114,19 @@
 		+ PrintWriter
 		+ FileWriter
 		+ BufferedWriter
-		- OutputStreamWriter
-	- класс_inputStream
-		- System.in
-		- FileInputStream
-	- класс_outputStream
-		- System.out
-		- System.err
-		- FileOutputStream
-- сериализация
-- введение в nio и nio2
-	- отличие io от nio
-	- чтение файла с помощью nio2
-	- запись данных в файл с помощью nio2
+		+ OutputStreamWriter
+	+ класс_inputStream
+		+ System.in
+		+ FileInputStream
+	+ класс_outputStream
+		+ System.out
+		+ System.err
+		+ FileOutputStream
++ сериализация
++ введение в nio и nio2
+	+ отличие io от nio
+	+ чтение файла с помощью nio2
+	+ запись данных в файл с помощью nio2
 + git
 	+ создание локального репозитория
 	+ добавление удаленного репозитория
