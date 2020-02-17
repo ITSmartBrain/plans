@@ -51,8 +51,8 @@
 - Generics	
 - структуры данных
 	+ список на базе массива
-	- очередь
-	- стэк
+	+ очередь
+	+ стэк
 	+ односвязный список
 	+ двусвязный список
 	+ хэш таблица
@@ -80,14 +80,14 @@
 + полиморфизм
 	+ полиморфизм классов
 	+ полиморфизм интерфейсов
-- интерфейс List
++ интерфейс List
 	+ ArrayList
 	+ LinkedList
-	- Stack
-	- Vector	
-- Интерфейс Queue
-	- ArrayDequeue
-	- PriorityQueue
+	+ Stack
+	+ Vector	
++ Интерфейс Queue
+	+ ArrayDequeue
+	+ PriorityQueue
 + Интерфейс Set
 	+ HashSet
 	+ TreeSet
@@ -95,7 +95,7 @@
 - Итератор
 	- реализация своего итератора (интерфейсы Iterable, Iterator )
 - Интерфейс Map
-	- HashMap
+	+ HashMap
 	- TreeMap
 	- LinkedHashMap
 - рекурсия
