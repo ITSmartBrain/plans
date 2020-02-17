@@ -75,21 +75,21 @@
 + абстрактные классы
 - интерфейсы
 	+ реализация интерфейсов
-	- наследование интерфейсов
+	+ наследование интерфейсов
 	- переключение между интерфейсами и суперклассами
 + полиморфизм
 	+ полиморфизм классов
 	+ полиморфизм интерфейсов
 - интерфейс List
 	+ ArrayList
-	- LinkedList
-	- Stack
-	- Vector	
+	+ LinkedList
+	+ Stack
+	+ Vector	
 - Интерфейс Queue
 	- ArrayDequeue
 	- PriorityQueue
 - Интерфейс Set
-	- HashSet
+	+ HashSet
 	- TreeSet
 	- LinkedHashSet
 - Итератор
