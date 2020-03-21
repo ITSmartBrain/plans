@@ -131,9 +131,9 @@
 	+ yield
 	+ join
 	+ синхронизация
-	- volatile
-	- атомарные операции (AtomicInteger)
-	- синхронизированные коллекции
+	+ volatile
+	+ атомарные операции (AtomicInteger)
+	+ синхронизированные коллекции
 	- callable
 	- executor service
 	- newFixedThreadPool
