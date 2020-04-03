@@ -50,7 +50,7 @@
 + анонимные классы
 + Generics	
 + enum
-- работа с датой
++ работа с датой
 + работа со строками
 + обработка ошибок
 	+ try catch
@@ -87,11 +87,11 @@
 	+ реализация своего итератора (интерфейсы Iterable, Iterator )
 	+ удаление в цикле через итератор
 	+ удаление ключей из карты
-- Интерфейс Map
++ Интерфейс Map
 	+ HashMap
 	+ TreeMap
 	+ LinkedHashMap
-- рекурсия
++ рекурсия
 - класс_Collections
 + файлы
 	+ Чтение
@@ -99,22 +99,22 @@
 	+ Парсинг текста
 - регулярные выражения	
 - Потоки ввода-вывода
-	- класс_reader
-		- FileReader
-		- BufferedReader
-		- InputStreamReader
-	- класс_writer
+	+ класс_reader
+		+ FileReader
+		+ BufferedReader
+		+ InputStreamReader
+	+ класс_writer
 		+ PrintWriter
-		- FileWriter
-		- BufferedWriter
-		- OutputStreamWriter
-	- класс_inputStream
-		- System.in
-		- FileInputStream
-	- класс_outputStream
-		- System.out
+		+ FileWriter
+		+ BufferedWriter
+		+ OutputStreamWriter
+	+ класс_inputStream
+		+ System.in
+		6 FileInputStream
+	+ класс_outputStream
+		+ System.out
 		- System.err
-		- FileOutputStream
+		+ FileOutputStream
 - сериализация
 - введение в nio и nio2
 	- отличие io от nio
