@@ -97,8 +97,8 @@
 	+ Чтение
 	+ Запись
 	+ Парсинг текста
-- регулярные выражения	
-- Потоки ввода-вывода
++ регулярные выражения	
++ Потоки ввода-вывода
 	+ класс_reader
 		+ FileReader
 		+ BufferedReader
@@ -110,12 +110,12 @@
 		+ OutputStreamWriter
 	+ класс_inputStream
 		+ System.in
-		6 FileInputStream
+		+ FileInputStream
 	+ класс_outputStream
 		+ System.out
-		- System.err
+		+ System.err
 		+ FileOutputStream
-- сериализация
++ сериализация
 - введение в nio и nio2
 	- отличие io от nio
 	- чтение файла с помощью nio2
