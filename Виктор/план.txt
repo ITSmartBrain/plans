@@ -83,13 +83,13 @@
 	+ HashSet
 	- TreeSet
 	- LinkedHashSet
-- Итератор
-	- реализация своего итератора (интерфейсы Iterable, Iterator )
++ Итератор
+	+ реализация своего итератора (интерфейсы Iterable, Iterator )
 - Интерфейс Map
 	- HashMap
 	- TreeMap
 	- LinkedHashMap
-- рекурсия
++ рекурсия
 - класс_Collections
 + файлы
 	+ Чтение
