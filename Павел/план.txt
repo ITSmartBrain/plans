@@ -47,7 +47,7 @@
 - вложенные классы
 	- вложенные в классы
 	- вложенные в методы
-- анонимные классы
++ анонимные классы
 + Generics	
 + enum
 - работа с датой
@@ -77,13 +77,13 @@
 	+ LinkedList
 	+ Stack
 	+ Vector	
-- Интерфейс Queue
-	- ArrayDequeue
-	- PriorityQueue
-- Интерфейс Set
-	- HashSet
-	- TreeSet
-	- LinkedHashSet
++ Интерфейс Queue
+	+ ArrayDequeue
+	+ PriorityQueue
++ Интерфейс Set
+	+ HashSet
+	+ TreeSet
+	+ LinkedHashSet
 - Итератор
 	- реализация своего итератора (интерфейсы Iterable, Iterator )	
 - Интерфейс Map
