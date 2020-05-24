@@ -45,7 +45,7 @@
 + модификатор final
 + модификатор static
 - вложенные классы
-	- вложенные в классы
+	+ вложенные в классы
 	- вложенные в методы
 + анонимные классы
 + Generics	
@@ -84,80 +84,80 @@
 	+ HashSet
 	+ TreeSet
 	+ LinkedHashSet
-- Итератор
-	- реализация своего итератора (интерфейсы Iterable, Iterator )	
-- Интерфейс Map
-	- HashMap
-	- TreeMap
-	- LinkedHashMap
++ Итератор
+	+ реализация своего итератора (интерфейсы Iterable, Iterator )	
++ Интерфейс Map
+	+ HashMap
+	+ TreeMap
+	+ LinkedHashMap
 + рекурсия
 - класс_Collections
-+ файлы
+- файлы
 	+ Чтение
-	+ Запись
-	+ Парсинг текста
-+ регулярные выражения	
-+ Потоки ввода+вывода
-	+ класс_reader
-		+ FileReader
-		+ BufferedReader
-		+ InputStreamReader
-	+ класс_writer
+	- Запись
+	- Парсинг текста
+- регулярные выражения	
+- Потоки ввода-вывода
+	- класс_reader
+		- FileReader
+		- BufferedReader
+		- InputStreamReader
+	- класс_writer
 		+ PrintWriter
 		+ FileWriter
-		+ BufferedWriter
-		+ OutputStreamWriter
-	+ класс_inputStream
-		+ System.in
-		+ FileInputStream
-	+ класс_outputStream
-		+ System.out
-		+ System.err
-		+ FileOutputStream
-+ сериализация
-+ введение в nio и nio2
-	+ отличие io от nio
-	+ чтение файла с помощью nio2
-	+ запись данных в файл с помощью nio2
-+ json
-+ git
-	+ создание локального репозитория
-	+ добавление удаленного репозитория
-	+ коммит файлов
-	+ создание новой ветки
-	+ объединение веток
-	+ обработка конфликтов
-+ лямбда выражения
-+ java 8
-+ многопоточность
-	+ создание отдельных потоков
-	+ yield
-	+ join
-	+ синхронизация
-	+ race condition
-	+ deadlock
-	+ volatile
-	+ атомарные операции (AtomicInteger)
-	+ синхронизированные коллекции
-	+ callable
-	+ executor service
-	+ newFixedThreadPool
-	+ newCachedThreadPool
-+ паттерны
-+ базы_данных
-	+ оператор select
-	+ оператор insert
-	+ оператор update
-	+ оператор delete
-	+ первичный ключ
-	+ внешний ключ
-+ maven
-	+ импорт библиотек
-+ hibernate
-+ веб
-+ spring
-+ рефлексия
-+ аннотации
+		- BufferedWriter
+		- OutputStreamWriter
+	- класс_inputStream
+		- System.in
+		- FileInputStream
+	- класс_outputStream
+		- System.out
+		- System.err
+		- FileOutputStream
+- сериализация
+- введение в nio и nio2
+	- отличие io от nio
+	- чтение файла с помощью nio2
+	- запись данных в файл с помощью nio2
+- json
+- git
+	- создание локального репозитория
+	- добавление удаленного репозитория
+	- коммит файлов
+	- создание новой ветки
+	- объединение веток
+	- обработка конфликтов
+- лямбда выражения
+- java 8
+- многопоточность
+	- создание отдельных потоков
+	- yield
+	- join
+	- синхронизация
+	- race condition
+	- deadlock
+	- volatile
+	- атомарные операции (AtomicInteger)
+	- синхронизированные коллекции
+	- callable
+	- executor service
+	- newFixedThreadPool
+	- newCachedThreadPool
+- паттерны
+- базы_данных
+	- оператор select
+	- оператор insert
+	- оператор update
+	- оператор delete
+	- первичный ключ
+	- внешний ключ
+- maven
+	- импорт библиотек
+- hibernate
+- веб
+- spring
+- рефлексия
+- аннотации
 Отменяется: графический_интерфейс
-+ тесты
-+ практика
+- тесты
+- практика
